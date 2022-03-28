@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VkVoice</string>
+    <integer name="com_vk_sdk_AppId">8117642</integer>
+    <integer name="com_vk_sdk_AppId1">2685278</integer>
+</resources>

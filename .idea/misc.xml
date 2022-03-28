@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/VkVoice/app/src/main/res/drawable/custom_progress_bar.xml" value="0.1" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/VkVoice/app/src/main/res/drawable/ic_delete.xml" value="0.1315" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/VkVoice/app/src/main/res/drawable/ic_pause.xml" value="0.1315" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/VkVoice/app/src/main/res/font/baloo.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/VkVoice/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/VkVoice/app/src/main/res/layout/input_name_record_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/VkVoice/app/src/main/res/layout/item_saved_audio.xml" value="0.27546296296296297" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/VkVoice/app/src/main/res/layout/item_saved_record.xml" value="0.4" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/VkVoice/app/src/main/res/layout/login_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/VkVoice/app/src/main/res/layout/saved_audio_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/VkVoice/app/src/main/res/layout/saved_record_fragment.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
