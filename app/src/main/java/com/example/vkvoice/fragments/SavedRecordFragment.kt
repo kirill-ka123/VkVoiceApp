@@ -176,7 +176,7 @@ class SavedRecordFragment : Fragment(R.layout.saved_record_fragment) {
         val runner = object : Runnable {
             override fun run() {
                 viewModel.getLiveProgress()
-                mainHandler.postDelayed(this, 10)
+                mainHandler.postDelayed(this, 5)
             }
         }
         if (bool) {

@@ -104,7 +104,9 @@ class SavedRecordAdapter : RecyclerView.Adapter<SavedRecordAdapter.SavedRecordVi
         if (recordDuration >= 3600000L) {
             return (recordDuration / 3600000L).toString() + ":" + (recordDuration % 3600000L / 60000L).toString() + ":" + (recordDuration % 3600000L % 60000L / 1000L).toString()
         } else {
-            return (recordDuration / 60000L).toString() + ":" + (recordDuration % 60000L / 1000L).toString()
+            if (recordDuration / 60000L == 0L && recordDuration % 60000L / 1000L == 0L) {
+                return (recordDuration / 60000L).toString() + ":" + "1"
+            } else return (recordDuration / 60000L).toString() + ":" + (recordDuration % 60000L / 1000L).toString()
         }
     }
 }
