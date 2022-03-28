@@ -52,6 +52,7 @@
                 android:layout_marginTop="7dp"
                 android:fontFamily="sans-serif"
                 android:text="Поход к адвокату"
+                android:maxLines="1"
                 android:textColor="@color/black"
                 android:textSize="22sp"
                 app:layout_constraintBottom_toBottomOf="parent"
